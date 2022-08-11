@@ -15,4 +15,10 @@
   "title": "COVID19 cases in Belgium",
   "details": "HUGE datasets from Belgium Covid Cases API, with many details such as regions, sex and so on.",
   "source": "Epistat Belgium"
-}]
+},
+ {
+  "url": "https://jadynekena.github.io/open-apis/src.json",
+   "title": "Open apis list",
+   "details": "Current list of open apis in order to have direct access to datas without any additional steps.",
+   "source": "Personal researches"
+ }]
