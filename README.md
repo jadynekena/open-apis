@@ -11,4 +11,4 @@ Get it [here](src.json).
 Feel free to make a PR !
 
 # Usecase
-Check out my dataviz website that relies on this repo : [Jsonvizz](jsonvizz.jadynekena.com). If many people ask for it, I can make this other project open source.
+Check out my dataviz website that relies on this repo : [Jsonvizz](https://jsonvizz.jadynekena.com). If many people ask for it, I can make this other project open source.
