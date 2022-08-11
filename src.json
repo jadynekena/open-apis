@@ -17,6 +17,12 @@
   "source": "Epistat Belgium"
 },
  {
+  "url": "",
+   "title": "",
+   "details": "",
+   "source": ""
+ },
+ {
   "url": "https://jadynekena.github.io/open-apis/src.json",
    "title": "Open apis list",
    "details": "Current list of open apis in order to have direct access to datas without any additional steps.",
