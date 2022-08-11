@@ -1,18 +1,18 @@
 [{
-  url: "https://api.nasa.gov/neo/rest/v1/feed?start_date=2022-03-03&end_date=2022-03-03&api_key=DEMO_KEY",
-  title: "NASA datas",
-  details: "Complex Datas from NASA to test nested json.",
-  source: "NASA API"
+  "url": "https://api.nasa.gov/neo/rest/v1/feed?start_date=2022-03-03&end_date=2022-03-03&api_key=DEMO_KEY",
+  "title": "NASA datas",
+  "details": "Complex Datas from NASA to test nested json.",
+  "source": "NASA API"
 },
 {
-  url: "https://opencollective.com/webpack/members/organizations.json",
-  title: "Open Collective Members",
-  details: "The active members (organizations, companies, and many others) that contribute to open collective projects.",
-  source: "Open Collective API"
+  "url": "https://opencollective.com/webpack/members/organizations.json",
+  "title": "Open Collective Members",
+  "details": "The active members (organizations, companies, and many others) that contribute to open collective projects.",
+  "source": "Open Collective API"
 },
 {
-  url: "https://epistat.sciensano.be/Data/COVID19BE_CASES_AGESEX.json",
-  title: "COVID19 cases in Belgium",
-  details: "HUGE datasets from Belgium Covid Cases API, with many details such as regions, sex and so on.",
-  source: "Epistat Belgium"
+  "url": "https://epistat.sciensano.be/Data/COVID19BE_CASES_AGESEX.json",
+  "title": "COVID19 cases in Belgium",
+  "details": "HUGE datasets from Belgium Covid Cases API, with many details such as regions, sex and so on.",
+  "source": "Epistat Belgium"
 }]
